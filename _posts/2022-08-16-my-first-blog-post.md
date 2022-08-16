@@ -1,4 +1,4 @@
-# Getting Started!!
-## Welcome to the Blog...
-
-##### this second task in my career
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
